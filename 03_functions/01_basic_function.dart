@@ -3,6 +3,6 @@ main() {
   sayHello('Juan');
 }
 
-sayHello(String name) {
+void sayHello(String name) {
   print('Hola $name');
 }
