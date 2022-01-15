@@ -1,4 +1,4 @@
-import 'classes/my-service.dart';
+import 'classes/MyService.dart';
 
 void main(List<String> args) {
   final spotifyService = new MyService();
